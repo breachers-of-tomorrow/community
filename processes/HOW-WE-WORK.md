@@ -25,7 +25,7 @@ Community decisions follow this pattern:
 
 ## Communication Channels
 
-- **Quick questions / casual chat** → Discord `#general`
+- **Quick questions / casual chat** → Discord `#breacher-net`
 - **Persistent community discussions** → [GitHub Discussions](https://github.com/breachers-of-tomorrow/community/discussions)
 - **Bug reports / feature requests** → [breacher-net Issues](https://github.com/breachers-of-tomorrow/breacher-net/issues)
 - **Community improvement ideas** → [Ideas Discussion](https://github.com/breachers-of-tomorrow/community/discussions/categories/ideas)

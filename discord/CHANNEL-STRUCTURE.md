@@ -41,6 +41,7 @@ The Discord server is our real-time community hub with 1,500+ members. It's orga
 |---------|------|---------|
 | `#keepers-of-the-manifest` | Forum | Leadership coordination — threads for standing topics |
 | `#reports` | Text | Moderation reports and action items |
+| `#moderation-general` | Text | Day-to-day moderator coordination and quick decisions |
 | `#bot-testing` | Text | Bot command testing and development |
 | `#moderation-log` | Text | Automated moderation action log |
 | Keepers Voice Chat | Voice | Private voice channel for leadership calls |

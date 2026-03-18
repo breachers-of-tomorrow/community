@@ -5,7 +5,7 @@
 
 ## Elevator Pitch
 
-> **Breachers of Tomorrow** is a 1,000+ member community tracking the Marathon ARG. We build tools, solve puzzles, and prepare for what comes next.
+> **Breachers of Tomorrow** is a 1,500+ member community tracking the Marathon ARG. We build tools, solve puzzles, and prepare for what comes next.
 
 ## Tagline Options
 
@@ -29,7 +29,7 @@
 | Context | Tone |
 |---------|------|
 | Discord `#announcements` | Clear, concise, slightly formal |
-| Discord `#general` | Casual, friendly, inclusive |
+| Discord `#breacher-net` | Casual, friendly, inclusive |
 | GitHub Issues/PRs | Technical, constructive |
 | GitHub Discussions | Thoughtful, longer-form |
 | Wiki content | Neutral, factual, well-sourced |

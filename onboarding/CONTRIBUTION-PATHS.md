@@ -8,7 +8,7 @@ There are many ways to contribute to Breachers of Tomorrow. You don't need to be
 
 - Track changes on [cryoarchive.systems](https://cryoarchive.systems)
 - Document discoveries in the [Community Doc](https://docs.google.com/document/d/1mtUtDPvbh6ahiynYFVS7Z4O79Nw6y5PEOjweCpzWV_A/edit?tab=t.0)
-- Share findings in Discord `#general` or the Thinking Pods voice channels
+- Share findings in Discord `#breacher-net` or the Thinking Pods voice channels
 - Help organize research into structured wiki pages (coming soon)
 
 ## 💻 Code & Tools
@@ -61,7 +61,7 @@ There are many ways to contribute to Breachers of Tomorrow. You don't need to be
 ## 🚀 Getting Started
 
 1. **Pick what interests you** from the paths above
-2. **Join the relevant Discord channels** — `#general` for research, `Code Corner` for dev work
+2. **Join the relevant Discord channels** — `#breacher-net` for research, `Code Corner` for dev work
 3. **Start small** — Fix a typo, add a data point, answer a question
 4. **Ask for help** — The Keepers and community are here to support you
 

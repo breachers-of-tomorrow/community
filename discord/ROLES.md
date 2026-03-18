@@ -12,6 +12,7 @@ Roles are listed from highest to lowest privilege.
 | Role | Purpose | Permissions |
 |------|---------|-------------|
 | **Keepers of The Manifest** | Community leadership team (~15 people) | Full moderation, manage channels, manage roles, access to private Keepers channels |
+| **Security Officer** | Moderator role (subset of Keepers with active mod duties) | Timeout, kick, ban, message delete, access to moderation channels |
 
 ### Community Roles
 

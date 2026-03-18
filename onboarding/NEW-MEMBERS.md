@@ -4,7 +4,7 @@ So you just joined the Discord, found the GitHub, or stumbled across [breacher.n
 
 ## What Is This?
 
-**Breachers of Tomorrow** is a community of 1,000+ people built around the [Marathon](https://en.wikipedia.org/wiki/Marathon_(upcoming_video_game)) ARG (Alternate Reality Game) by Bungie. We collaboratively solve puzzles, track changes to the [cryoarchive.systems](https://cryoarchive.systems) website, and share discoveries.
+**Breachers of Tomorrow** is a community of 1,500+ people built around the [Marathon](https://en.wikipedia.org/wiki/Marathon_(upcoming_video_game)) ARG (Alternate Reality Game) by Bungie. We collaboratively solve puzzles, track changes to the [cryoarchive.systems](https://cryoarchive.systems) website, and share discoveries.
 
 ## What's the ARG?
 
@@ -24,7 +24,7 @@ Our community tracks all of this in real-time using [breacher.net](https://breac
 Our home base is Discord: [discord.gg/sGeg5Gx2yM](https://discord.gg/sGeg5Gx2yM)
 
 Key channels:
-- **#general** — Main community chat
+- **#breacher-net** — Main community chat
 - **#announcements** — Official updates
 - **#rules** — Community guidelines
 - **#roles** — Pick up your roles
@@ -59,4 +59,4 @@ Be respectful, be collaborative, and remember we're all here because we love Mar
 
 ---
 
-*Questions? Ask in `#general` on Discord or open a [Q&A Discussion](https://github.com/breachers-of-tomorrow/community/discussions/categories/q-a).*
+*Questions? Ask in `#breacher-net` on Discord or open a [Q&A Discussion](https://github.com/breachers-of-tomorrow/community/discussions/categories/q-a).*

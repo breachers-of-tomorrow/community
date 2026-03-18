@@ -46,7 +46,7 @@ This repo hosts our persistent community conversations via [GitHub Discussions](
 
 ## 📋 About
 
-Breachers of Tomorrow is a 1,000+ member community built around the [Marathon](https://en.wikipedia.org/wiki/Marathon_(upcoming_video_game)) ARG by Bungie. We track cryoarchive anomalies, decode transmissions, and prepare for what comes next.
+Breachers of Tomorrow is a 1,500+ member community built around the [Marathon](https://en.wikipedia.org/wiki/Marathon_(upcoming_video_game)) ARG by Bungie. We track cryoarchive anomalies, decode transmissions, and prepare for what comes next.
 
 This repo is maintained by the Keepers — our community leadership team of ~15 volunteers.
 

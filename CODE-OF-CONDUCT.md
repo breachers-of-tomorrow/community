@@ -21,7 +21,7 @@ We don't just tolerate differences — we celebrate them. The best breaches happ
 - **Be welcoming.** Remember that everyone was new once. Help newcomers find their footing.
 - **Be collaborative.** Share discoveries, credit sources, and build on each other's work.
 - **Be mindful of spoilers.** Use spoiler tags for anything that might not be known widely yet. If you're not sure, use a tag.
-- **Use channels appropriately.** Keep conversations on-topic. Use `#offtopic` for everything else.
+- **Use channels appropriately.** Keep conversations on-topic. Use `#off-topic` for everything else.
 - **Assume good intent.** Most miscommunications are exactly that — miscommunications. Give people the benefit of the doubt before escalating.
 - **Respect privacy.** Don't share others' personal information, real names, or private conversations without explicit consent.
 
@@ -67,7 +67,7 @@ Our primary real-time hub. Channel-specific expectations:
 |---|---|
 | `#arg-general` | Welcoming tone, inclusive conversation |
 | ARG channels | Spoiler discipline, source your claims |
-| `#offtopic` | Relaxed but still respectful |
+| `#off-topic` | Relaxed but still respectful |
 | Voice channels | No screaming, soundboards, or disruptive audio. Respect when someone is speaking. |
 | `#announcements` | Read-only for members; Keeper posts only |
 
